@@ -1,2 +1,2 @@
 # GMT_motor_test_kit
-For GMT motor test
+GMT motor Test Kit with VCP
